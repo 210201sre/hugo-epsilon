@@ -1,0 +1,1 @@
+DELETE FROM merch_app.users WHERE merch_app.users.id = 4;
