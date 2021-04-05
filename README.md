@@ -31,7 +31,13 @@ This is an application for Merchants to store their inventory and barter with ea
 * Get all inventories
 * Update inventory items
 * Delete inventory by id
-* Barter
+* Bartering system
+
+## Usage
+
+* It is suggested to use Postman to take actions
+* Login: Send POST request with following path: /merch-app/login
+  * Input "username" and "password" in JSON formatting
 
 To-do list:
 * Need to display all inventories and inventory items while displaying users
